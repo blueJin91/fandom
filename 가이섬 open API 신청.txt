@@ -1,0 +1,7 @@
+가이섬 open API 신청
+
+{"code":200,"message":"OK","body":{"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI4NCIsInJvbGUiOiJST0xFX0dVRVNUIiwiaXNzIjoiY2hhcnRpbi5tZSIsImlhdCI6MTY5NDUxOTg0NSwiZXhwIjoxNjk0NTM0MjQ1fQ.8vwM8aSmT-Jizxu0F5zU3rTNo5a6m8Hnse7Iiax8xzs","refresh_token":"eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJjaGFydGluLm1lIiwiaWF0IjoxNjk0NTE5ODQ1LCJleHAiOjE2OTUxMjQ2NDV9.2H-WztWGLu0MuslL0mWNptdpn3hnKgF4qXpav9TzfEI"}}
+
+가이섬 open API 토큰
+
+{"code":200,"message":"OK","body":{"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI4NCIsInJvbGUiOiJST0xFX1VTRVIiLCJpc3MiOiJjaGFydGluLm1lIiwiaWF0IjoxNjk0Njc5MDE3LCJleHAiOjE2OTQ2OTM0MTd9.01iyLCqQSnL7oKXMAIWdI1y7DXiIa7oMvlD-4tjv8kM","refresh_token":"eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJjaGFydGluLm1lIiwiaWF0IjoxNjk0Njc5MDE3LCJleHAiOjE2OTUyODM4MTd9.5WaPLtjAFHFt6fGPA2SsSScDoUc9KJQjW546zx5w63o"}}
